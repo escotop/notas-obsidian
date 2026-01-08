@@ -1,0 +1,280 @@
+{
+  "mapMarkers": [
+    {
+      "id": "map1",
+      "locked": false,
+      "lastAccessed": 1732098330701,
+      "markers": [
+        {
+          "id": "ID_692a395b3848",
+          "type": "default",
+          "loc": [
+            -0.01751808470246204,
+            0.009427407074916778
+          ],
+          "layer": "Sword_Coast_North_29-Background.webp",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6948a9aac9eb",
+          "type": "default",
+          "loc": [
+            -0.01755045348211841,
+            0.009395038295260411
+          ],
+          "layer": "Sword_Coast_North_29-Background.webp",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9e95b4aca3b",
+          "type": "default",
+          "loc": [
+            -0.017217278480529785,
+            0.009244872634966442
+          ],
+          "layer": "Sword_Coast_North_29-Background.webp",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "rectangle",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -0.0064239501953125,
+              "lng": 0.007221221923828125,
+              "id": "ID_0868d87898fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.0064239501953125,
+              "lng": 0.007221221923828125,
+              "id": "ID_0868d87898fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.0064239501953125,
+              "lng": 0.007221221923828125,
+              "id": "ID_0868d87898fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.0064239501953125,
+              "lng": 0.007221221923828125,
+              "id": "ID_0868d87898fb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -0.006213204113778977,
+              "lng": 0.0068513916939309345,
+              "id": "ID_8bb889da4af9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.00615692138671875,
+              "lng": 0.00707244873046875,
+              "id": "ID_59ca097a28b8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Campaigns/Mina perdida 1/mapa Costa de la espada.md"
+      ]
+    },
+    {
+      "id": "dasdassd-me",
+      "lastAccessed": 1733587715308,
+      "markers": [
+        {
+          "id": "ID_5ba8191ac878",
+          "type": "default",
+          "loc": [
+            -0.017474757742192842,
+            0.009318941737124862
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BSword_Coast_North_29-Background.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pueblo de Phandalin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbf9c83a5ae9",
+          "type": "default",
+          "loc": [
+            -0.015208943166247178,
+            0.007570315149649461
+          ],
+          "layer": "%5B%5BSword_Coast_North_29-Background.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88e9c8293b49",
+          "type": "default",
+          "loc": [
+            -0.012156668397088233,
+            0.01367338240660211
+          ],
+          "link": "Conyberry",
+          "layer": "%5B%5BSword_Coast_North_29-Background.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Conyberry",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ba85b4a7999",
+          "type": "default",
+          "loc": [
+            -0.011876138973399722,
+            0.013133858523501126
+          ],
+          "link": "Guarida de agatha",
+          "layer": "%5B%5BSword_Coast_North_29-Background.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaigns/Mina perdida 1/mapa Costa de la espada.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 15,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "mapa.webp",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "mapa.webp"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 18,
+    "minZoom": 0,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "map1",
+    "width": "100%",
+    "lat": 50,
+    "long": 50,
+    "unit": "feet",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
