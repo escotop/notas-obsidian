@@ -144,14 +144,23 @@
               "icon": "lucide-list",
               "title": "Esquema de 4 - Guion acto 2 - Vallakia"
             }
+          },
+          {
+            "id": "a10ae35a1b17f7d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +181,9 @@
   },
   "active": "fd1ee2389c4898be",
   "lastOpenFiles": [
+    "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
     "Assets/lore vallakianos.png",
     "Campaigns/Strahd/Act I - Into the Mists/Arc C - Into the Valley.md",
-    "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
     "Campaigns/Strahd/1- Guion/3 - Camino a Vallakia.md",
     "Campaigns/Strahd/Act II - The Shadowed Town/Act II Summary.md",
     "Campaigns/Strahd/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
