@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "4 - Guion acto 2 - Vallakia"
             }
-          },
-          {
-            "id": "e135c7ff41b436dd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -153,9 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de 4 - Guion acto 2 - Vallakia"
             }
           },
           {
@@ -177,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -184,29 +176,60 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e135c7ff41b436dd",
+  "active": "fd1ee2389c4898be",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
-    "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
-    "Assets/lore vallakianos.png",
-    "Campaigns/Strahd/Act I - Into the Mists/Arc C - Into the Valley.md",
-    "Campaigns/Strahd/1- Guion/3 - Camino a Vallakia.md",
-    "Campaigns/Strahd/Act II - The Shadowed Town/Act II Summary.md",
-    "Campaigns/Strahd/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
-    "Campaigns/Strahd/Curse of Strahd.pdf",
+    "Campaigns/Strahd/publish.css",
     "Campaigns/Strahd/mapa Barovia.png",
-    "Campaigns/Eryndor/Notas.md",
-    "Campaigns/Strahd/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Campaigns/Strahd/images/wolf_ravine.jpg",
+    "Campaigns/Strahd/images/preview.png",
+    "Campaigns/Strahd/images/favicon-32x32.png",
+    "Campaigns/Strahd/images/cover-light.png",
+    "Campaigns/Strahd/images/cover-dark.png",
+    "Campaigns/Strahd/images/Zuleika Toranscu.png",
+    "Campaigns/Strahd/images/Zorya.png",
+    "Campaigns/Strahd/images/Yester Hill Layout (Presentation) (1).png",
+    "Campaigns/Strahd/images/Yeska.png",
+    "Campaigns/Strahd/images",
+    "Campaigns/Strahd/Introduction/Using This Guide.md",
+    "Campaigns/Strahd/Introduction/Changelog.md",
     "Campaigns/Strahd/Introduction/A DM's Guide to Curse of Strahd.md",
+    "Campaigns/Strahd/Introduction",
+    "Campaigns/Strahd/Curse of Strahd.pdf",
+    "Campaigns/Strahd/Chapter 3 - Running the Game/Running the Adventure.md",
+    "Campaigns/Strahd/Chapter 3 - Running the Game/Adventure Summary.md",
+    "Campaigns/Strahd/Chapter 3 - Running the Game",
+    "Campaigns/Strahd/Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+    "Campaigns/Strahd/Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+    "Campaigns/Strahd/Chapter 2 - The Land of Barovia/Historia Barovia.md",
+    "Campaigns/Strahd/Chapter 2 - The Land of Barovia/History of Barovia.md",
+    "Campaigns/Strahd/Chapter 2 - The Land of Barovia",
+    "Campaigns/Strahd/Chapter 1 - Beginning the Campaign/Session Zero.md",
+    "Campaigns/Strahd/Chapter 1 - Beginning the Campaign/Character Creation.md",
+    "Campaigns/Strahd/Chapter 1 - Beginning the Campaign",
+    "Campaigns/Strahd/Appendices/Glossary.md",
     "Campaigns/Strahd/Appendices/Non-Player Characters.md",
-    "Campaigns/Strahd/1- Guion/3 - Guion  Acto 1 - Bosque Svalich.md",
-    "Campaigns/Strahd/Act I - Into the Mists/Arc A - Escape From Death House.md"
+    "Campaigns/Strahd/Appendices/Amber Shards.md",
+    "Campaigns/Strahd/Appendices",
+    "Campaigns/Strahd/Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+    "Campaigns/Strahd/Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md",
+    "Campaigns/Strahd/Act IV - Secrets of the Ancient/Act IV Summary.md",
+    "Campaigns/Strahd/Act IV - Secrets of the Ancient",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc L - The Den of Wolves.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Arc J - The Stolen Gem.md",
+    "Campaigns/Strahd/Act III - The Broken Land/Act III Summary.md",
+    "Campaigns/Strahd/Act III - The Broken Land",
+    "Campaigns/Strahd/Act I - Into the Mists/Act I Plot Map.canvas",
+    "Campaigns/Strahd/1- Guion/Death house"
   ]
 }
