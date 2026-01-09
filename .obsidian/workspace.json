@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4 - Guion acto 2 - Vallakia"
             }
+          },
+          {
+            "id": "e135c7ff41b436dd",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,11 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de 4 - Guion acto 2 - Vallakia"
+              "title": "Esquema"
             }
           },
           {
@@ -177,10 +190,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fd1ee2389c4898be",
+  "active": "e135c7ff41b436dd",
   "lastOpenFiles": [
-    "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
+    "conflict-files-obsidian-git.md",
     "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
+    "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
     "Assets/lore vallakianos.png",
     "Campaigns/Strahd/Act I - Into the Mists/Arc C - Into the Valley.md",
     "Campaigns/Strahd/1- Guion/3 - Camino a Vallakia.md",
