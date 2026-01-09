@@ -25,14 +25,14 @@
             "id": "e135c7ff41b436dd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "4 - Guion acto 2 - Vallakia"
             }
           }
         ],
@@ -153,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de 4 - Guion acto 2 - Vallakia"
             }
           },
           {
