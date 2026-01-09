@@ -11,14 +11,10 @@
             "id": "fd1ee2389c4898be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 - Guion acto 2 - Vallakia"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -139,10 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 4 - Guion acto 2 - Vallakia"
+              "title": "Esquema"
             }
           },
           {
@@ -164,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -171,12 +171,10 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "system3-relay:Relay": false,
+      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "translate:Open translation view": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd1ee2389c4898be",
