@@ -171,10 +171,8 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "system3-relay:Relay": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "translate:Open translation view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false
     }
