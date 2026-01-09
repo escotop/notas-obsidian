@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "4 - Guion acto 2 - Vallakia"
             }
+          },
+          {
+            "id": "93bc48f4108e79eb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "11a5b13b0734c333",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/core-plugins.json",
+                "bFile": ".obsidian/core-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: core-plugins.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,11 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de 4 - Guion acto 2 - Vallakia"
+              "title": "Esquema"
             }
           },
           {
@@ -192,7 +218,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e135c7ff41b436dd",
+  "active": "11a5b13b0734c333",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
