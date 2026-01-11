@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -160,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +179,15 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "fd1ee2389c4898be",
   "lastOpenFiles": [
+    "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
     "Campaigns/Strahd/publish.css",
     "Campaigns/Strahd/mapa Barovia.png",
     "Campaigns/Strahd/images/wolf_ravine.jpg",
@@ -229,7 +233,6 @@
     "Campaigns/Strahd/Act III - The Broken Land/Arc J - The Stolen Gem.md",
     "Campaigns/Strahd/Act III - The Broken Land/Act III Summary.md",
     "Campaigns/Strahd/Act III - The Broken Land",
-    "Campaigns/Strahd/Act I - Into the Mists/Act I Plot Map.canvas",
-    "Campaigns/Strahd/1- Guion/Death house"
+    "Campaigns/Strahd/Act I - Into the Mists/Act I Plot Map.canvas"
   ]
 }
