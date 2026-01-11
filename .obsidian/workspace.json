@@ -27,12 +27,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
-                "bFile": "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2 - Guion Acto 1 - Pueblo Barovia  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -198,7 +198,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a10ae35a1b17f7d5",
+  "active": "9ad749d1b4fd7d84",
   "lastOpenFiles": [
     "Campaigns/Strahd/1- Guion/2 - Guion Acto 1 - Pueblo Barovia.md",
     "Campaigns/Strahd/1- Guion/4 - Guion acto 2 - Vallakia.md",
