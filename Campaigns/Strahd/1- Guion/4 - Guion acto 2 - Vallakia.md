@@ -114,3 +114,15 @@ If the players linger at Rictavio's table, the Wachter brothers are happy (if pr
 - Vallaki's recent history of festivals,
 - the Baron's response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+
+
+At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+
+- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
+- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
+- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
+- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+
+If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+
+
