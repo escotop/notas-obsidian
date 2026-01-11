@@ -79,3 +79,38 @@ Cosas raras: destellos de luz morada desde el atico de la casa del burgomaestre
 #### Rictavio
 
 A la que te acercas, uno del publico os susurra silencio, que va a contar una historia.
+
+Historia:
+<div class="description">
+<p>El vampiro conde Belasco guardaba su ataúd no en una cripta ni en una fortaleza, sino en el sótano de una vieja posada en ruinas, que era administrada por su sirviente, Igoron.</p>
+<p>El pobre conde Belasco tenía un terrible secreto: a su avanzada edad, su cuero cabelludo empezaba a pudrirse y su cabello se le caía en grandes mechones y nudos. Avergonzado, ordenó a Igoron que comprara una hermosa peluca negro azabache, con la esperanza de conservar al apuesto joven que había sido.</p>
+<p>«Un hombre apuesto, sin duda», estuvo de acuerdo una de sus huéspedes —una viuda anciana y casi ciega llamada Olivenka— una noche especialmente iluminada por la luna. La querida Olivenka se mantenía apartada, pasando los días clasificando y reclasificando la colección de rocas de su difunto esposo, que guardaba con cariño en su bolso. A pesar del extraño comportamiento del conde y su piel pálida, no sospechó nada; su vieja vista era demasiado borrosa para distinguir los colmillos que asomaban entre sus dientes.</p>
+<p>Como siempre, el conde sintió el impulso de alimentarse de ella, y aunque sus palabras halagadoras apaciguaron su interés, seguía sintiendo la sed en los colmillos. «¡Igoron!», bramó. «Tráeme el abrigo: me voy de caza».</p>
+<p>«Sí, señor», jadeó Igoron. Al regresar, gimió: «Será mejor que vuelva antes del amanecer, mi lord. Esta noche estoy limpiando las cortinas. Quiero que esté bien y a salvo en su ataúd antes de que salga el sol».</p>
+<p>El conde Belasco se burló. «No temas, simple Igoron», se jactó. «Conozco bien la hora de mi enemigo. Nada podría mover mi espíritu a permanecer bajo sus terribles rayos».</p>
+<p>Y así, el conde partió. Acechó en callejones y merodeó por los tejados, pero no encontró ni un solo bocado para saciar su sed. Fue con sorpresa que el hambriento y derrotado conde alzó finalmente la vista hacia los cielos aterciopelados y vio el gris pervinca del amanecer que se aproximaba.</p>
+<p>Preso del pánico, voló por las calles. A cuatro manzanas. Una franja de naranja comenzó a cortar el cielo. Tres manzanas. Dos—</p>
+<p>—la puerta de la posada se cerró de golpe tras él.</p>
+<p>«Cielos», dijo Olivenka, bostezando en lo alto de la escalera. «¿Ha estado fuera toda la noche?»</p>
+<p>En un abrir y cerrar de ojos, la enorme silueta del conde se alzó muy por encima de ella. «Sí», gruñó. «Pero acabo de encontrar lo que estaba buscando. Olivenka—<i>¡quiero chuparte la sangre!</i>»</p>
+<p>Normalmente, una de las víctimas del conde Belasco habría gritado, huido o se habría desmayado; sin embargo, había cometido un terrible error.</p>
+<p>Había olvidado que los ojos aquejados de cataratas de Olivenka no podían ver bien sus colmillos.</p>
+<p>«¡Asqueroso!», chilló Olivenka, y lanzó dieciocho años de raras rocas y minerales directamente contra su cabeza. Hubo un terrible golpe —y un espantoso crujido de madera— y el conde Belasco salió rodando hasta el piso de abajo. Cuando abrió los ojos, vio a Olivenka mirando con horror, no a él, sino a su <i>cabeza</i>—a su <i>cabeza desnuda</i>.</p>
+<p>Allí, justo bajo la ventana oriental, yacía su querida peluca. Se lanzó a por ella, con las garras extendidas—y un rayo de luz solar rozó su piel.</p> 
+<p>Hubo un chisporroteo, un siseo y una explosión de humo y llamas. Olivenka, con el bolso apretado contra el pecho, observó atónita cómo el conde Belasco sucumbía a la luz de la mañana, hasta que no quedó más que un montón humeante de cenizas y una peluca chamuscada y humeante.</p>
+</div>
+
+«La pobre Olivenka nunca llegó a superarlo del todo», concluye Rictavio, con los ojos centelleantes. «Después de todo, ¡fue una experiencia verdaderamente “de pelos de punta”!». Mientras sus oyentes abuchean, ríen a carcajadas y aplauden, él hace una reverencia y luego le hace una seña a Danika para otra ronda de bebidas. Cuando ella se acerca, Brom y Bray pasan corriendo a su lado hacia la cocina, riendo.
+
+
+info rictavio:
+
+* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
+* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+
+If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+
+- the Festival of the Blazing Sun,
+- Vallaki's recent history of festivals,
+- the Baron's response to those who speak ill of the festivals, and
+- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
