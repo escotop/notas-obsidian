@@ -167,6 +167,14 @@ Siguiendolo sin mucha dificultad, veis como con paso alegre se dirige hasta el e
 Tras que se las come, revisa su alrededor de forma paranoica.
 DC 18 grupal sigilo
 
-Les ve: Es poco educado acechar a la gente, a que se debe el placer?
+Les ve:
 
+Es poco educado acechar a la gente, a que se debe el placer?
 La comida es para su amigo blinsky.
+Si le preguntan, dira que comprueben que no hay espias cerca. Soy un agente secreto de los Guardianes de la Pluma, una sociedad secreta dedicada a oponerse a Strahd.  Mi nombre es clasificado.
+
+Mentira DC 18, si le pillan, deniega
+
+No les ve:
+
+Veis como se agarra el asa del sombrero y lo gira sobre si mismo. Tras esto, veis como encoge un palmo y al darse la vuleta, se ha convertido en una persona completamente distinta, un pueblerino cualquiera. Tras esto veis como se dirige
