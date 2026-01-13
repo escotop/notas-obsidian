@@ -182,6 +182,16 @@ Veis como se agarra el asa del sombrero y lo gira sobre si mismo. Tras esto, vei
 A la que lo intentais seguir, os sorprende un grito y relincho de caballo al otro lado de la calle. A la que volveis la vista, el pueblerino ya se ha fundido en el gentio.
 
 
-
+- Los jugadores oyen el relincho de un caballo que llega desde la calle—y los habitantes del pueblo se quedan inmóviles y guardan silencio. Al sur se aproxima una pequeña comitiva: el barón Vargas Vallakovich (tal como se describe en _Interpretar a la familia Vallakovich_, pág. 105), montado sobre su caballo castaño, flanqueado por sus dos **mastines** llamados Garra y Colmillo, y seguido por tres **guardias**. Izek Strazni encabeza la comitiva.
+    
+- Los jugadores pueden ver que una anciana de aspecto asustado, vestida con ropas raídas de campesina, acaba de tropezar al apartarse del caballo y ha caído en un charco de barro a unos pocos pasos de él. El caballo se ha detenido bruscamente, y la comitiva se ha detenido con él. El brazo demoníaco de Izek está extendido, lo que sugiere que acaba de empujar —o lanzar— a la anciana al barro. (La mujer es Willemina Rikalova, la madre del zapatero encarcelado Udo Lukovich.)
+    
+- El barón reprende furiosamente a la mujer por ensuciar su capa con sus “asquerosas manos de campesina”. La anciana, con la voz temblorosa, se disculpa y suplica al barón que libere a su hijo, Udo, afirmando que no pretendía hacer ningún daño con su “broma estúpida”.
+    
+- El barón insiste en que Udo necesita “rehabilitación” por su “infelicidad maliciosa”, y sugiere que la mujer también la necesita. Ordena a Izek que la capture y la encierre en el cepo, comentando que “unos cuantos días en el cepo deberían aflojarle la lengua”. Izek da un paso al frente, flexionando su brazo demoníaco con un brillo cruel en los ojos.
+    
+- Izek agarra a la mujer, la levanta bruscamente y la arroja sin miramientos a los brazos expectantes de los guardias. Dos de los guardias le sujetan los brazos a la espalda y comienzan a arrastrarla hacia el sur mientras ella forcejea, llora y suplica por la libertad de su hijo. Ningún habitante del pueblo se atreve a ayudarla.
+    
+- Mientras se llevan a la anciana, el barón se vuelve hacia los vecinos que lo rodean y proclama: «¡Que esto sirva de lección sobre los peligros de la infelicidad maliciosa! La mano del Diablo es larga, pero nuestra alegría superará su sombra».
 
 
