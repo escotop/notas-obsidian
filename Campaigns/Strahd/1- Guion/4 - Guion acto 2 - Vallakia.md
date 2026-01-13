@@ -158,3 +158,15 @@ Asi como consejo, si alguna vez acabais en un lio con el baron, se dice que es m
 A mitad de la conversacion, veis a Rictavio bajar las escaleras y acercarse a la barra.
 
 Buenos dias, Urwin le pasa un pequeño paquete, Rictavio lo coge, se despide con su sombrero y se dirige a la puerta
+
+
+#### Siguen a Rictavio
+
+Siguiendolo sin mucha dificultad, veis como con paso alegre se dirige hasta el establo. Una vez alli, se para anteuno de los caballos, abre el paquete y saca un par de manzanas.
+
+Tras que se las come, revisa su alrededor de forma paranoica.
+DC 18 grupal sigilo
+
+Les ve: Es poco educado acechar a la gente, a que se debe el placer?
+
+La comida es para su amigo blinsky.
