@@ -150,4 +150,11 @@ Salen de las habitaciones, esta Urwin, el padre. Que vengan abajo a hablar en la
 
 Con voz baja.
 
-Ser cuidadosos en vallakia
+Ser cuidadosos en vallakia, ultimamente esta la cosa movida. Los guardias saltan a la minima, hay tensiones politicas y el baron esta obsesionado con los festivales. Y su secuaz, Izek Strani, le ha reventado la cara a mas de uno.
+
+Asi como consejo, si alguna vez acabais en un lio con el baron, se dice que es muy susceptible a los alagos y que hinchar su ego suele ser buena manera de tratar con el.
+
+
+A mitad de la conversacion, veis a Rictavio bajar las escaleras y acercarse a la barra.
+
+Buenos dias, Urwin le pasa un pequeño paquete, Rictavio lo coge, se despide con su sombrero y se dirige a la puerta
