@@ -146,4 +146,8 @@ The taproom slowly clears out over the following two hours. Nikolai and Karl Wac
 If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 #### Mañana siguiente
 
+Salen de las habitaciones, esta Urwin, el padre. Que vengan abajo a hablar en la barra
 
+Con voz baja.
+
+Ser cuidadosos en vallakia
