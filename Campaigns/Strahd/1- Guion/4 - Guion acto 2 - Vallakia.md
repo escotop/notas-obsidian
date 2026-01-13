@@ -177,4 +177,9 @@ Mentira DC 18, si le pillan, deniega
 
 No les ve:
 
-Veis como se agarra el asa del sombrero y lo gira sobre si mismo. Tras esto, veis como encoge un palmo y al darse la vuleta, se ha convertido en una persona completamente distinta, un pueblerino cualquiera. Tras esto veis como se dirige
+Veis como se agarra el asa del sombrero y lo gira sobre si mismo. Tras esto, veis como encoge un palmo y al darse la vuleta, se ha convertido en una persona completamente distinta, un pueblerino cualquiera. Tras esto veis como se dirige hacia la multitud.
+
+A la que lo intentais seguir, os sorprende un grito y relincho de caballo al otro lado de la calle. A la que volveis la vista, el pueblerino ya se ha fundido en el gentio.
+
+
+
