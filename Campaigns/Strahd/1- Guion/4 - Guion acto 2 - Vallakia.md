@@ -222,7 +222,7 @@ Si comienza pelea:
 
 Alunisono, todos los pueblerinos con sonrisa en cara responden Todo ira joya. Con cara satisfecha,  el baron fija la mirada un momento sobre Ireena, incomodandola, y tras esto prosigue su camino.
 
-A ireena el baron lee resultafamiliar pero no sabe por que.
+A ireena el baron lee resulta familiar pero no sabe por que.
 
 
 
