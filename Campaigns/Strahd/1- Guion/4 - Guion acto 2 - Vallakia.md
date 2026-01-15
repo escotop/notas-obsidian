@@ -195,3 +195,18 @@ A la que lo intentais seguir, os sorprende un grito y relincho de caballo al otr
 - Mientras se llevan a la anciana, el barón se vuelve hacia los vecinos que lo rodean y proclama: «¡Que esto sirva de lección sobre los peligros de la infelicidad maliciosa! La mano del Diablo es larga, pero nuestra alegría superará su sombra».
 
 
+Si interrumpen el arresto:
+
+"Acaso pretendeis tomar la rehabilitacion de la vieja en su lugar?"
+
+DC 10 calmar la situacion
+
+Si quieren cascarse:
+
+"Veis como  el baron pone cara de confiado, sus guardias se preparan y sus perros se ponen a gruñir hacia vosotros."
+
+
+Si comienza pelea:
+
+"A la que vas a lanzar el primer golpe, un hombre brota de la multitud. Es un anciano de cara amable y pelo blanco. Por sus ropas se puede asumir que es de la iglesia.
+"
