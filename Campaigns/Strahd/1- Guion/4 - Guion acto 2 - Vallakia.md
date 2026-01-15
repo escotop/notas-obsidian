@@ -214,5 +214,11 @@ Si comienza pelea:
 
 "Gran Baron, me disculpo en nombre de Willemina. Ultimamente ha estado atormentada y sufriendo delirios durante las congregaciones. Si me lo permitis, me encargare personalmente de llevarla a la catedral y de aliviar su atormentada mente."
 
+"Me encuentro de buen humor esta mañana padre Petrovich, asi que lo permitire. Encargate tambien de educar a estos forasteros de sobre como funcion las cosas aqui en Vallakia. Que tengan claro que la proxima falta, tendra consecuencias."
 
+"Por supuesto gran baron"
+
+"Veis como el baron se dispone a seguir su camino, antes de ello, levanta la mirada como si se dirigiese a todos los presentes y dice en voz alta Todo ira joya"
+
+Alunisono, todos los pueblerinos responden Todo ira joua
 
