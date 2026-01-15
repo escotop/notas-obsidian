@@ -218,7 +218,12 @@ Si comienza pelea:
 
 "Por supuesto gran baron"
 
-"Veis como el baron se dispone a seguir su camino, antes de ello, levanta la mirada como si se dirigiese a todos los presentes y dice en voz alta Todo ira joya"
+"Veis como el baron se dispone a seguir su camino, antes de ello, os dice "Espero veros a todos vosotros en el festival del sol naciente de aqui cuatro dias." levanta la mirada como si se dirigiese a todos los presentes y dice en voz alta Todo ira joya"
 
-Alunisono, todos los pueblerinos responden Todo ira joua
+Alunisono, todos los pueblerinos con sonrisa en cara responden Todo ira joya. Con cara satisfecha,  el baron fija la mirada un momento sobre Ireena, incomodandola, y tras esto prosigue su camino.
+
+A ireena el baron lee resultafamiliar pero no sabe por que.
+
+
+
 
