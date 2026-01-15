@@ -199,6 +199,8 @@ Si interrumpen el arresto:
 
 "Acaso pretendeis tomar la rehabilitacion de la vieja en su lugar?"
 
+"Sois espias del demonio Strhad?"
+
 DC 10 calmar la situacion
 
 Si quieren cascarse:
@@ -208,5 +210,9 @@ Si quieren cascarse:
 
 Si comienza pelea:
 
-"A la que vas a lanzar el primer golpe, un hombre brota de la multitud. Es un anciano de cara amable y pelo blanco. Por sus ropas se puede asumir que es de la iglesia.
-"
+"A la que vas a lanzar el primer golpe, un hombre brota de la multitud. Es un anciano de cara amable y pelo blanco. Por sus ropas se puede asumir que es de la iglesia."
+
+"Gran Baron, me disculpo en nombre de Willemina. Ultimamente ha estado atormentada y sufriendo delirios durante las congregaciones. Si me lo permitis, me encargare personalmente de llevarla a la catedral y de aliviar su atormentada mente."
+
+
+
