@@ -225,5 +225,23 @@ Alunisono, todos los pueblerinos con sonrisa en cara responden Todo ira joya. Co
 A ireena el baron lee resulta familiar pero no sabe por que.
 
 
+# Arcos
+
+
+## Andral feast (arco iglesia)
+
+Trigger: Llevar a Ireena a la iglesia 
+
+## Missing vistana (arco arabella)
+
+## Lady watcher
+
+## Strazni siblings
+
+## Lost soul
+
+## Walls of kretz
+
+
 
 
