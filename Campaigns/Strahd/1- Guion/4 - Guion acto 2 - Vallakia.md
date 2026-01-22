@@ -230,7 +230,22 @@ A ireena el baron lee resulta familiar pero no sabe por que.
 
 ## Andral feast (arco iglesia)
 
-Trigger: Llevar a Ireena a la iglesia 
+Trigger: Llevar a Ireena a la iglesia o que el padre pertrovich les pida ayuda con los huesos desapareidos
+
+
+### LLegada a la iglesia
+
+Al entrar, alguein se da de cara con  Henrik van der Voort. DC 10  o colision
+
+The players can help Henrik collect his glasses, nails, and planks as he scrambles helplessly to find them. If they do, he thanks them profusely, dabbing at his face and hands with a slightly soiled handkerchief. He is willing to share the following information if directly asked:
+
+* His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
+* Father Lucian asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
+* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
+
+Se disculpa y se pira.
+
+
 
 ## Missing vistana (arco arabella)
 
