@@ -264,7 +264,11 @@ Si piden refugio para ireena:
 
 Veis como el padre pide que dejen la sala libre a un par de limpiadoras y despues os pide que seais discretos con lo que os va a contar:
 
-"Me temo que que la proteccion de la que gozaba la iglesia ha sido comprometida. Nuestra iglesia es famosa por ser tierra sagrada, en esta, los demonios o no muertos son incapaces de entrar y previene que sus huespedes sean poseidos o encantados por criaturas malignas.  La fuente de esta proteccion es la cripta de Sant Andral, la cual salvaguardaba los huesos del propio Andral, el fundador de esta iglesia y un gran clerigo del señor del alba."
+"Me temo que que la proteccion de la que gozaba la iglesia ha sido comprometida. Nuestra iglesia es famosa por ser tierra sagrada, en esta, los demonios o no muertos son incapaces de entrar y previene que sus huespedes sean poseidos o encantados por criaturas malignas.  
+
+La fuente de esta proteccion es la cripta de Sant Andral, la cual salvaguarda los huesos del propio Andral, el fundador de esta iglesia y un gran clerigo del señor del alba Cada año, el ritual de proteccion ha de ser renovado sobre los huesos para que se conserve su efecto.
+
+Por desgracia, la otra noche descubri que alguien ha debido colarse en la cripta y robado los huesos."
 
 ## Missing vistana (arco arabella)
 
