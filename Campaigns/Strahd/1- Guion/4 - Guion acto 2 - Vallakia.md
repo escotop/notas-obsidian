@@ -276,7 +276,11 @@ El baron asegura que los muros pueden mantener a ralla a cualquier ser de la noc
 
 
 
-Info extra: Solo Yeska sabe de los huesos aparte del padre
+Info extra: 
+Solo Yeska sabe de los huesos aparte del padre, es un joven amable, no le presioneis, no creo que hiciese algo malo.
+
+No he reportado el robo, me preocupa que cunda el panico y no quiero arruinar el festival del baron.
+
 
 
 
