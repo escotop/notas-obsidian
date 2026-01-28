@@ -245,7 +245,14 @@ The players can help Henrik collect his glasses, nails, and planks as he scrambl
 
 Se disculpa y se pira.
 
+Pasann a a la capilla.
 
+Candelabros, velas, altar de madera y vidrieras decorativas. Una ed ellas reventada.
+Un manin joven en escalera clavando una tela para cubrirla y otro aun mas joven barriendo trozos de cristal.
+
+El joven es Milivoj.
+
+El joven de la escalera 
 
 ## Missing vistana (arco arabella)
 
