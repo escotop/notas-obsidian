@@ -281,6 +281,14 @@ Solo Yeska sabe de los huesos aparte del padre, es un joven amable, no le presio
 
 No he reportado el robo, me preocupa que cunda el panico y no quiero arruinar el festival del baron.
 
+El unico otro empleado de la iglesia el jardinero, Milijov, os doy indicaciones a su casa.
+
+Si no os importa, me gustaria acompañaros con la investigacion.
+
+### Escena crimen
+
+
+
 
 
 
