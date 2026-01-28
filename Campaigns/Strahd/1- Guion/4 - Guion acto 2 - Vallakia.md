@@ -252,7 +252,19 @@ Un manin joven en escalera clavando una tela para cubrirla y otro aun mas joven 
 
 El joven es Milivoj.
 
-El joven de la escalera 
+El joven de la escalera parece que ha acabado y se la lleva hacia la salida. Al pasar os mira con cara de asco y dice
+
+"Padre, os estan molestando estos forasteros?"
+
+"No te puedes fiar hoy en dia, podrian ser vampiros o hombres lobo. Amenos que tengan forma de demostrar q no lo son."
+
+"No puedes ser demasiado cuidadoso, cuidese padre."
+
+Si piden refugio para ireena:
+
+Veis como el padre pide que dejen la sala libre a un par de limpiadoras y despues os pide que seais discretos con lo que os va a contar:
+
+"Me temo que que la proteccion de la que gozaba la iglesia ha sido comprometida. Nuestra iglesia es famosa por ser tierra sagrada, en esta, los demonios o no muertos son incapaces de entrar y previene que sus huespedes sean poseidos o encantados por criaturas malignas.  La fuente de esta proteccion es la cripta de Sant Andral, la cual salvaguardaba los huesos del propio Andral, el fundador de esta iglesia y un gran clerigo del señor del alba."
 
 ## Missing vistana (arco arabella)
 
