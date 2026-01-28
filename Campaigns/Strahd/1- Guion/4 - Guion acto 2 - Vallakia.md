@@ -266,9 +266,19 @@ Veis como el padre pide que dejen la sala libre a un par de limpiadoras y despue
 
 "Me temo que que la proteccion de la que gozaba la iglesia ha sido comprometida. Nuestra iglesia es famosa por ser tierra sagrada, en esta, los demonios o no muertos son incapaces de entrar y previene que sus huespedes sean poseidos o encantados por criaturas malignas.  
 
-La fuente de esta proteccion es la cripta de Sant Andral, la cual salvaguarda los huesos del propio Andral, el fundador de esta iglesia y un gran clerigo del señor del alba Cada año, el ritual de proteccion ha de ser renovado sobre los huesos para que se conserve su efecto.
+El secreto de la fuente de esta proteccion es la cripta de Sant Andral, la cual salvaguarda los huesos del propio Andral, el fundador de esta iglesia y un gran clerigo del señor del alba Cada año, el ritual de proteccion ha de ser renovado sobre los huesos para que se conserve su efecto.
 
-Por desgracia, la otra noche descubri que alguien ha debido colarse en la cripta y robado los huesos."
+Por desgracia, la otra noche descubri que alguien ha debido colarse en la cripta y robado los huesos. Parece que rompio uno tablones tras el altar tras colarse por la ventana que ahora como veis esta rota.
+
+Dentro de 4 dias, la proteccion del ritual que efectue el año pasado dejara de tomar efecto. Si no encuentro los huesos y renuevo el ritual para entonces, me temo que la iglesia dejara de gozar de dicha proteccion.
+
+El baron asegura que los muros pueden mantener a ralla a cualquier ser de la noche, pero que desaparezcan los huesos justo antes de que tenga que efectuar el ritual, me parece demasiada coincidencia. Me temo que exista la posibilidad de que algun ser maligno haya planeado esto."
+
+
+
+Info extra: Solo Yeska sabe de los huesos aparte del padre
+
+
 
 ## Missing vistana (arco arabella)
 
