@@ -323,6 +323,22 @@ Una mujer con el pelo grasoso y cara de cordero degollao abre la puerta. 3 niño
 La mujer tiene los ojos humedos.
 CD 10, parece molesta, como resacosa pero no huele a alcol
 
+Preguntan por milivoj:
+
+La mujer se rasca los ojos y con cara de cansada llama a Bogan y Zondra, y la mujer s va con cara de mosqueada al sofa y se duerme en el.
+
+Los dos chiquillos vienen a la puerta.
+"Que quereis señores raros?"
+
+"Milivoj esta malito, no puede salir a jugar"
+
+cd 10
+
+"Milooo, alguien quiere hablar contigo"
+
+Al rato, milo aparece con uno de los xiquillos enrosacado en una pierna y otros 2 colgados de los brazos. 
+
+cd 10 ver
 ## Missing vistana (arco arabella)
 
 ## Lady watcher
