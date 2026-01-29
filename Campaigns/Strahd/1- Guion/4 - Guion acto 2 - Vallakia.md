@@ -348,7 +348,11 @@ cd 10 ver que se ha tensado al veros
 cd 10 ver que lo tenia preparado, no suena a mentira, pero es como si lo tuviese pensado el decirlo
 
 cd 15:
-"Si, es verdad, yo los he robado. Henrik, el de la tienda de ataudes me f"
+"Si, es verdad, yo los he robado. Henrik, el de la tienda de ataudes me ofrecio dinero por ellos. Desde que mis padres se volvieron adictos a esos pastelillos de mierda, soy la unica razon por la que mis hermanos no se han muerto de hambre."
+
+"Te dejan adormecido y no te enteras de que pasa a tu alrededor. Cunado te despiertas, lo unico que tienes claro es que quieres mas para seguir durmiendo."
+
+"Henrik me dijo que solo son una baratija familiar y que los queria recuperar. No vi razon para no darselos."
 ## Missing vistana (arco arabella)
 
 ## Lady watcher
