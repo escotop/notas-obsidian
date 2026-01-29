@@ -287,6 +287,17 @@ Si no os importa, me gustaria acompañaros con la investigacion.
 
 ### Escena crimen
 
+Tras el altar, una pila de tablones de tablones nuevos junto a una bolsa de clavos. No lejos, tablones desgastados, parecen ser los tablones que fueron forzados y arrancados.
+
+Bajando por el hueco que forman, hay una camara angosta y humeda.  En el centro, una losa de piedra con una endidura en forma de cuenco,  donde los huesos reposaban.
+
+Tablones: DC 15, trozo de tela arrancada en un clavo viejo.
+CD 20 : Una marca de oxido y tierra, parece un rayon que dejo la herramienta con la que forzaron las tablas
+
+Suelo: CD 10, trozos de tierra y hebras de hierba, junto a algunos petalos de flores blancas
+
+CD 15, pelo negro
+
 
 
 
