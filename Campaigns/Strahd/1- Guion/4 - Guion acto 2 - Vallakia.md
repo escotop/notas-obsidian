@@ -298,10 +298,30 @@ Suelo: CD 10, trozos de tierra y hebras de hierba, junto a algunos petalos de fl
 
 CD 15, pelo negro
 
-Las flores blancas son petalos de 
+Las flores blancas son petalos del cementerio de la iglesia
+
+### Entrevista Yeska
 
 
+If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
 
+If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
+
+
+### Casa milivoj
+
+Zona empobrezida noroeste.
+
+Calle torzida  con la carretera desatendida y llena de barro
+
+Llegais a casa de madera torcida, parece omo si cediese bajo su propio peso.
+
+Jarzinka, su madre
+
+Una mujer con el pelo grasoso y cara de cordero degollao abre la puerta. 3 niños pequelos agarraos a sus piernas y otros 2 estan en un comedor enano jugando y dando tralla.
+
+La mujer tiene los ojos humedos.
+CD 10, parece molesta, como resacosa pero no huele a alcol
 
 ## Missing vistana (arco arabella)
 
