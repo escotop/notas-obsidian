@@ -298,7 +298,7 @@ Suelo: CD 10, trozos de tierra y hebras de hierba, junto a algunos petalos de fl
 
 CD 15, pelo negro
 
-
+Las flores blancas son petalos de 
 
 
 
