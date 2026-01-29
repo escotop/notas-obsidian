@@ -338,7 +338,17 @@ cd 10
 
 Al rato, milo aparece con uno de los xiquillos enrosacado en una pierna y otros 2 colgados de los brazos. 
 
-cd 10 ver
+cd 10 ver que se ha tensado al veros
+
+
+"No tengo ni idea de que hablais, iros a molestar a otro."
+
+"Ni idea, lo que si que os puedo decir es q hace un par de dias vi una figura encapuchada vigilando la iglesia desde los callejones"
+
+cd 10 ver que lo tenia preparado, no suena a mentira, pero es como si lo tuviese pensado el decirlo
+
+cd 15:
+"Si, es verdad, yo los he robado. Henrik, el de la tienda de ataudes me f"
 ## Missing vistana (arco arabella)
 
 ## Lady watcher
