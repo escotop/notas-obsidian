@@ -353,6 +353,14 @@ cd 15:
 "Te dejan adormecido y no te enteras de que pasa a tu alrededor. Cunado te despiertas, lo unico que tienes claro es que quieres mas para seguir durmiendo."
 
 "Henrik me dijo que solo son una baratija familiar y que los queria recuperar. No vi razon para no darselos."
+
+
+El padre lucian conoce a Henrik, espera poder razonar con el para que devuelva los huesos.
+
+### Tienda de atahudes
+
+
+
 ## Missing vistana (arco arabella)
 
 ## Lady watcher
