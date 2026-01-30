@@ -359,9 +359,34 @@ El padre lucian conoce a Henrik, espera poder razonar con el para que devuelva l
 
 ### Tienda de atahudes
 
+Una casa de madera de 2 pisos. A pesar de que la fachada se ve desatendida, las ventanas y puerta desentonan por lo solidas que parecen.
+
+CD ver que las ventanas y puertas son de roble macizo y nuevas.
+
+Si llaman, se niega a abrir da igual lo que hagan.
+
+CD 20 reventar puerta
+Magia abrir.
+
+Al entrar, Henrik no se resiste, los vampiros me obligaron. Tened cuidado, han hecho de la giardilla su nido, deberias poder evitarlos si vais con cuidado. Quedaos los huesos pero por favor protegedme de los vampiros.
+
+CD 14 acercarse a cajas de vampiros sin alertar. Abrir ataud CD 14 desventaja
+
+
+
 #### Entrada
 
-####  salon
+####  Salon
+####  Sitio de fabricacion
+
+####  Guardilla
+
+
+
+#### Prehabitacion
+
+####  Habitacion
+
 
 
  
