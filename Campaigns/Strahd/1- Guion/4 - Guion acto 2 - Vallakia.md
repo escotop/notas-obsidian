@@ -414,6 +414,10 @@ Fallo, un juguete sale y hace ruido. Alerta a los vampiros
 Stats vampiros
 Volenta y 2 spawn
 
+Al acabar su fase 1, volenta
+
+"El plan era arrancarte la garganta frente a tu congregacion, pero supongo que decorar las escaleras de la iglesia con las cabezas de tus amigos no es un mal plan B"
+
 
 
 ## Missing vistana (arco arabella)
