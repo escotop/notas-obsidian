@@ -376,17 +376,31 @@ CD 14 acercarse a cajas de vampiros sin alertar. Abrir ataud CD 14 desventaja
 
 #### Entrada
 
-####  Salon
-####  Sitio de fabricacion
+Sala taller, herramientas varias y materiales de carpinteria.
+
+
+####  Sala exposicion
+Unos cuantos atahudes expiuestos en plan bonito
+
+
 
 ####  Guardilla
 
+Cajas tablones y diversos materiales de fabricacion. Parece simplemente un lugar de almacenaje.
 
 
 #### Prehabitacion
 
 ####  Habitacion
+Una habitacion humilde. Cama, una comoda, una mesa de escitura y un armario.
 
+Huesos dentro del armario, al abrir cajotrampa venenosa 
+
+20 CD detectarla sin querer
+
+20 CD desarmarla
+
+Fallo, envenena
 
 
  
