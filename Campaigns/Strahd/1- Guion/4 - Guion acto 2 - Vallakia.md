@@ -418,7 +418,9 @@ Al acabar su fase 1, volenta
 
 "El plan era arrancarte la garganta frente a tu congregacion, pero supongo que decorar las escaleras de la iglesia con las cabezas de tus amigos no es un mal plan B"
 
+“¿Crees que tu preciosa y pequeña iglesia puede mantenerte a salvo? ¡Quemará el resto de Vallaki para llegar hasta ti y matará al resto de esta apestosa alimaña para obligarte a salir!”
 
+"Esto no quedara asi."
 
 ## Missing vistana (arco arabella)
 
