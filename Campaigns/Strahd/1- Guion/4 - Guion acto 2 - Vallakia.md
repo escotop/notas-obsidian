@@ -394,16 +394,26 @@ Cajas tablones y diversos materiales de fabricacion. Parece simplemente un lugar
 ####  Habitacion
 Una habitacion humilde. Cama, una comoda, una mesa de escitura y un armario.
 
-Huesos dentro del armario, al abrir cajotrampa venenosa 
+Huesos dentro del armario, al abrir cajon, trampa venenosa 
+
+2d10 veneno DC 15 constitucuon o envenendao 1 hora
+DC 16 Wisdom (Perception) to spot, and a successful DC 15 Dexterity with thieves’ tools to disarm
+
+
+
+Una vez abierto uno de los huesos atados por un hilo, 
 
 20 CD detectarla sin querer
 
 20 CD desarmarla
 
-Fallo, envenena
+Fallo, un juguete sale y hace ruido. Alerta a los vampiros
 
 
  
+Stats vampiros
+Volenta y 2 spawn
+
 
 
 ## Missing vistana (arco arabella)
