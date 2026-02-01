@@ -407,7 +407,7 @@ Una vez abierto uno de los huesos atados por un hilo,
 
 20 CD desarmarla
 
-Fallo, un juguete sale y hace ruido. Alerta a los vampiros
+Fallo, un juguete lleno de marcas de garras sale y hace ruido. Alerta a los vampiros
 
 
  
