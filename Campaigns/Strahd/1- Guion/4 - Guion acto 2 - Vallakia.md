@@ -424,6 +424,9 @@ Al acabar su fase 1, volenta
 
 ## Missing vistana (arco arabella)
 
+Triggerea al ir a blinky toys o al campamento vistani.
+
+
 ## Lady watcher
 
 ## Strazni siblings
