@@ -426,7 +426,29 @@ Al acabar su fase 1, volenta
 
 Triggerea al ir a blinky toys o al campamento vistani.
 
+Al entrar os encontrais con una sala con estanterias llenas de juguetes. Un hombre grueso con cara contenta os saluda y veis en su hombro un macaco con un tutu.
 
+Seleccion de juguetes:
+
+Macabros:
+- **Una muñeca sin cabeza** que viene con un saco de cabezas acoplables, incluida una con los ojos y la boca cosidos (precio: 9 pc)
+    
+- **Una horca en miniatura**, completa con trampilla y un “hombre ahorcado” con peso (precio: 9 pc)
+    
+- **Un conjunto de muñecas rusas de madera**; cuanto más pequeña es cada una, más anciana parece, hasta que la muñeca más interna es un cadáver momificado (precio: 9 pc)
+    
+- **Un móvil de madera y cuerda** con murciélagos colgantes de alas batientes (precio: 9 pc)
+    
+- **Un carrusel musical de cuerda**, con figuras de lobos gruñendo que persiguen a niños en lugar de caballos danzantes (precio: 9 pp)
+    
+- **Un muñeco de ventrílocuo** que se parece a Strahd von Zarovich (precio: 9 pp)
+    
+- **Una muñeca que se parece notablemente a Ireena** (no está a la venta; ver más abajo)
+
+
+
+Muñeca ireena: Izek, el maton del baron, le obliga a crear un muñeco cada mes siguiendo su descripcion. No los paga, pero a cambio no le quema la tienda.
+La verdad es que la muchacha con la que vais es la viva imagen de los muñecos que me manda hacer.
 ## Lady watcher
 
 ## Strazni siblings
