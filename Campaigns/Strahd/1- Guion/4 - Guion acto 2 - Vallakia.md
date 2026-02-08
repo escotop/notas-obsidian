@@ -447,7 +447,10 @@ Macabros:
 
 
 
-Muñeca ireena: Izek, el maton del baron, le obliga a crear un muñeco cada mes siguiendo su descripcion. No los paga, pero a cambio no le quema la tienda.
+Muñeca ireena: 
+Izek, el maton del baron, le obliga a crear un muñeco cada mes siguiendo su descripcion. 
+
+No los paga, pero a cambio no le quema la tienda.
 La verdad es que la muchacha con la que vais es la viva imagen de los muñecos que me manda hacer.
 ## Lady watcher
 
