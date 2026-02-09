@@ -457,6 +457,10 @@ La verdad es que la muchacha con la que vais es la viva imagen de los muñecos q
 ### Campamento vistani
 
 Al llegar, veis una colina en cuya cima parece haber varias carabanas y carretas vistani formando un circulo a modo de campamento. A un lado de la colina, a los pies de esta, hay tambien un par de casuchas.
+
+#### Cima colina
+Al subir la colina os encontrais con el campamento vistani. 
+
 ## Lady watcher
 
 ## Strazni siblings
