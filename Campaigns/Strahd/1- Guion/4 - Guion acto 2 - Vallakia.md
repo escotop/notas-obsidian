@@ -523,7 +523,36 @@ A player who inspects the footprints and makes a DC 15 Intelligence (Investigati
 Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 
 #### Chozas elfos oscuros
-Hay guardia, si preguntan por Kasimir, le llevan a su tienda. El guardia dice que Kasimir ha vuelto de un viaje largo
+Hay guardia, si preguntan por Kasimir, le llevan a su tienda. El guardia dice que Kasimir ha vuelto de un viaje largo y cansado, que no le deis la murga.
+
+Tienda Kasimir:
+
+Entras en un pequeño y acogedor vestíbulo, varios grados más cálido que las frías brumas del exterior. Las paredes de esta estancia están decoradas con bocetos y retratos colgados que muestran elfos de piel oscura con aspecto orgulloso y sabio, altas agujas arbóreas talladas en madera oscura y representaciones artísticas de constelaciones y cuerpos celestes. Dos cortinas de tela marrón oscuro ocultan la entrada a otra cámara más allá.
+
+Tras las cortinas se encuentra una estancia más amplia, iluminada y calentada por una chimenea en el extremo norte. Una vieja alfombra verde reposa frente al fuego, junto a una antigua mesa de madera rodeada por varias sillas. La pared izquierda de esta cómoda habitación tiene una docena de nichos con libros encuadernados en cuero y pequeñas estatuillas de madera con figuras élficas, mientras que la pared derecha luce un tapiz desvaído que representa un bosque frondoso y hermoso bajo el sol del mediodía.
+
+Veis a un elfo sentado en el suelo frente a la hoguera meditando.
+
+His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
+
+Tomad el anillo, no he sido capaz de identificar su origen, puede que vosotros tengais mas suerte.
+
+Lo unico que saco en claro del anillo es que presenta los 2 simbolos de las escuelas de magia de evocacion y nigromancia, pero el anillo no parece reaccionar ante ninguna magia.
+
+Causa  heridas: Hace poco he recorrido el monte Ghakis. Debido a un desprendimiento, cai y sufri las heridas que veis.
+
+Razones personales para ir, no os metais.
+
+Si preguntan por los elfos oscuros:
+Incluso ahora, casi cinco siglos después, los recuerdos siguen siendo nítidos y claros en mi mente, como fragmentos de vidrio roto. Yo apenas tenía un siglo de edad cuando mi pueblo perdió su libertad, cuando la tiranía del clan von Zarovich se alzó como una sombra sobre la tierra.
+
+No fue Strahd quien quebró la paz, sino su padre, el rey Barov von Zarovich II. En aquellos días, nuestro pueblo habitaba en Othrondil, el Bosque del Crepúsculo. Un consejo de príncipes nos gobernaba, liderado por Erevan Löwenhart, mi tío y maestro en el arte del bladesong. Cuando los ojos del rey Barov se posaron sobre nuestras tierras, exigió nuestra lealtad, nuestro tributo a las fronteras de la antigua Zarovia, el reino que sus ancestros una vez gobernaron. Erevan, que practicaba el estilo del león y portaba su sigilo, nunca fue alguien que se inclinara ante nadie, y se negó. Su acto de desafío encendió las llamas de la guerra.
+
+La conquista de Barov fue rápida y brutal. Sus fuerzas, acompañadas por Rahadin, mi primo y traidor a nuestro pueblo, arrasaron nuestro reino. Yo era mago y escriba en la corte de Erevan; vi a Rahadin romper la espada de Erevan y ejecutar a su familia, marcando el fin de la línea real. Mi pueblo fue subyugado, y aquellos que resistieron fueron cazados como conejos.
+
+Barov nos gobernó con mano de hierro, y cuando murió y su hijo Strahd llegó al poder, nos alzamos en rebelión, liderando la carga por la libertad. Pero Strahd era aún más astuto y cruel que su padre. Aplastó nuestra revuelta en cuestión de días y masacró a nuestro pueblo en un genocidio que dejó con vida a menos de un centenar. A nosotros, los supervivientes, nos dejó a merced de los vistani, que nos acogieron en sus caravanas y nos condujeron hasta un refugio en este valle.
+
+Sin embargo, el ansia de conquista de Strahd no tenía fin. En menos de un año, el último de sus enemigos había caído y reclamó el valle como propio, dándole el nombre de «Barovia». Nos encontramos atrapados, prisioneros en el corazón del nuevo imperio de nuestro conquistador. Para entonces, sin embargo, ya habíamos construido un hogar aquí y decidimos permanecer, esperando, en lo más profundo de nuestros corazones, que la bondad de los vistani nos mantuviera a salvo. Y así hemos permanecido desde entonces.
 
 ## Lady watcher
 
