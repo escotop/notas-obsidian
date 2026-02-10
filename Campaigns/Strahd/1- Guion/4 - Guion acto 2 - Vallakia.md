@@ -571,6 +571,11 @@ Trigger: desafiar al baron o ayudar refugiados.
 Ernst Larnak en la taverna o en la calle les para.
 
 "Buenas tardes señores, mi nombre es Ernst Larnak. Sirvo a Lady Fiona Watcher. Os informo de que Lady Watcher desea conoceros y os invita formalmente a cenar en la mansion Wachterhous. "
+
+
+### Mansion Watchterhous
+
+Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El mayordomo os sienta y os presenta comida y bebida 
 ## Strazni siblings
 
 ## Lost soul
