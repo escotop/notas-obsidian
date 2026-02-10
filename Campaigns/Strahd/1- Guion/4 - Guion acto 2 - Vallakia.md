@@ -504,7 +504,27 @@ Luvash puede compartir la siguiente información con los jugadores:
 
 Luvash cree que el anillo es la clave para encontrar a Arabelle.
 
-Kasimir no sabe su procedencia, pero el Baron Vargas Vallakovich
+Kasimir no sabe su procedencia, pero el Baron Vargas Vallakovich tiene la biblioteca mas extensa de la region. Si hay informacion sobre el simbolo del anillo, debe encontrarse alli. El problema es que los vistani y los elfos oscuros tienen prohibida la entrada a la ciudad.
+
+Luvash pide a los jugadores que recuperen el anillo de manos de Kasimir y luego investiguen su sigilo en la biblioteca del barón Vallakovich. Si los jugadores regresan con información útil sobre el paradero de Arabelle —o, mejor aún, con la propia Arabelle—, Luvash les promete una valiosa recompensa. (Si insisten, Luvash puede prometerles una suma de 500 po, o un conjunto de tesoros de valor equivalente o superior).
+
+Si los jugadores aceptan la misión de Luvash, este los dirige a **E2b. Chozas de los Elfos del Crepúsculo** para reunirse con Kasimir.
+
+
+Escena crimen:
+Lecho de un rio con hierba alta.
+
+If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of P. Luna River Crossroads (p. 40). As the players travel there, they pass through [E5a. Luna River Bridge](app://obsidian.md/index.html#E5a.%20Luna%20River%20Bridge) and [E5b. Luna River Crossroads](app://obsidian.md/index.html#E5b.%20Luna%20River%20Crossroads).
+
+A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
+
+A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
+
+Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
+
+#### Chozas elfos oscuros
+Hay guardia, si preguntan por Kasimir, le llevan a su tienda. El guardia dice que Kasimir ha vuelto de un viaje largo
+
 ## Lady watcher
 
 ## Strazni siblings
