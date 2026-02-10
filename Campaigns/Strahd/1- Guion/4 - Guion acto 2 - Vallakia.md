@@ -459,8 +459,52 @@ La verdad es que la muchacha con la que vais es la viva imagen de los muñecos q
 Al llegar, veis una colina en cuya cima parece haber varias carabanas y carretas vistani formando un circulo a modo de campamento. A un lado de la colina, a los pies de esta, hay tambien un par de casuchas.
 
 #### Cima colina
-Al subir la colina os encontrais con el campamento vistani. 
+Al subir la colina os encontrais con el campamento vistani. Al igual que el otro campamento, son un monton de carretas y tiendas de campaña desperdigadas sobre el cersped.
 
+
+##### Tienda principal
+Al entrar:
+
+Mientras te agachas para entrar en la tienda, oyes el sonido de madera astillándose y cerámica haciéndose añicos. Parpadeando a través de la bruma de humo que llena el interior, ves tres hogueras vacilantes que arden ya casi reducidas a brasas. En total, seis vistani se sientan alrededor de los fuegos, observando el origen del alboroto con miradas solemnes y compasivas.
+
+Un joven sin camisa está arrodillado sobre la hierba muerta en el centro de la tienda, con los ojos bajos y el rostro pálido. A su lado, una caja de madera rota descansa entre un montón de fragmentos de cerámica, algunos de los cuales aún se tambalean por la fuerza del impacto.
+
+A unos cuatro metros del joven arrodillado se alza un hombre mayor y más corpulento, vestido con una armadura de cuero tachonado y una espesa barba bien recortada. Tiene los ojos enrojecidos y la mano derecha le tiembla. Parece apoyarse con su peso en una muleta de madera improvisada; al mirar hacia abajo, ves que la parte inferior de su pierna derecha está envuelta en vendajes manchados de sangre.
+
+—¡Se suponía que debías mantenerla a salvo! —brama el hombre corpulento con voz ronca. Se gira bruscamente, su mano tanteando a ciegas como si buscara algo más que lanzar. El sudor perla en su frente, y ahoga un sollozo de rabia—. ¡Mi pequeña! Y ahora…
+
+Vacila, inestable… y tropieza. En un parpadeo, un tercer hombre, también vestido con cuero tachonado y luciendo una perilla bien cuidada, sale de su sombra y sujeta al hombre corpulento por el hombro antes de que caiga.
+
+—Tranquilo, hermano —murmura el tercero—. Has perdido mucha sangre.
+
+Levanta la vista y se percata de tu presencia; su ceño se frunce casi imperceptiblemente.
+
+—Y parece que tenemos compañía.
+
+
+The shirtless man is Alexei. The larger man is Luvash. The man with the goatee is Arrigal.
+
+Luvash: Que os trae a nuestro campamento forasteros?
+
+Mi hija Arabelle ha desaparecido.
+
+Luvash puede compartir la siguiente información con los jugadores:
+
+- Un día antes de la llegada de los jugadores a Vallaki, el sobrino de Luvash, Alexei, recibió el encargo de vigilar a Arabelle mientras jugaba en el bosque cercano, mientras Luvash mediaba en una disputa entre dos familias vistani.
+    
+- En lugar de vigilar a Arabelle, Alexei se emborrachó con vino. Cuando despertó, Arabelle había desaparecido.
+    
+- Alexei afirma que Yan, un miembro veterano del campamento, le dio el vino y que Yan había desaparecido cuando él despertó.
+    
+- Luvash dirigió la búsqueda de Arabelle, uniéndose a más de una docena de vistani y a casi el mismo número de exploradores elfos del crepúsculo procedentes de las chozas al pie de la colina. El propio Luvash tuvo que regresar al campamento después de que su pierna derecha quedara atrapada en una trampa para lobos, dejándolo demasiado herido para caminar.
+    
+- Los grupos de búsqueda aún no han encontrado a Arabelle. Sin embargo, un elfo del crepúsculo llamado Savid encontró el cuerpo decapitado de Yan tendido sobre la hierba ensangrentada cerca del río Luna, rodeado de señales de lucha.
+    
+- Savid también encontró un extraño anillo de sello tirado en la hierba, que parecía haberse caído durante el forcejeo. Luvash se lo entregó a Kasimir, el líder de los elfos del crepúsculo y su erudito más destacado, para que lo identificara, pero aún no ha recibido ninguna noticia ni información útil al respecto.
+
+Luvash cree que el anillo es la clave para encontrar a Arabelle.
+
+Kasimir no sabe su procedencia, pero el Baron Vargas Vallakovich
 ## Lady watcher
 
 ## Strazni siblings
