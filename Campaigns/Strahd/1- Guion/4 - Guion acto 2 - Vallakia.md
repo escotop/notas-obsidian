@@ -577,7 +577,7 @@ Estimado Toji y estimados compañeros:
 
 Espero que esta misiva os encuentre con buena salud y ánimo elevado. Vallakia parece haber sido bendecida por vuestra presencia y la promesa de buena voluntad que traéis con vosotros.
 
-Ha llegado a mi conocimiento que nuestros caminos, aunque discurren por tiempos tan difíciles, presentan una notable convergencia. Por ello, os escribo hoy con una humilde invitación a cenar en mi hogar, Wachterhaus, esta noche aa poder ser. Podréis encontrarla en el camino norte de Vallaki, a corta distancia de la Puerta Zarovich.
+Ha llegado a mi conocimiento que nuestros caminos, aunque discurren por tiempos tan difíciles, presentan una notable convergencia. Por ello, os escribo hoy con una humilde invitación a cenar en mi hogar, Wachterhaus, esta noche a poder ser. Podréis encontrarla en el camino norte de Vallaki, a corta distancia de la Puerta Zarovich.
 
 Confío en que este entorno proporcione un ambiente tranquilo y acogedor en el que podamos tratar asuntos de interés y preocupación mutuos. Mis puertas, como siempre lo han estado, permanecen abiertas para quienes desean lo mejor para la buena gente de Barovia.
 
