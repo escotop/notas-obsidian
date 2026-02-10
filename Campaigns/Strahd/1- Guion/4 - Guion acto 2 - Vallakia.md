@@ -544,6 +544,7 @@ Causa  heridas: Hace poco he recorrido el monte Ghakis. Debido a un desprendimie
 Razones personales para ir, no os metais.
 
 Si preguntan por los elfos oscuros:
+
 Incluso ahora, casi cinco siglos después, los recuerdos siguen siendo nítidos y claros en mi mente, como fragmentos de vidrio roto. Yo apenas tenía un siglo de edad cuando mi pueblo perdió su libertad, cuando la tiranía del clan von Zarovich se alzó como una sombra sobre la tierra.
 
 No fue Strahd quien quebró la paz, sino su padre, el rey Barov von Zarovich II. En aquellos días, nuestro pueblo habitaba en Othrondil, el Bosque del Crepúsculo. Un consejo de príncipes nos gobernaba, liderado por Erevan Löwenhart, mi tío y maestro en el arte del bladesong. Cuando los ojos del rey Barov se posaron sobre nuestras tierras, exigió nuestra lealtad, nuestro tributo a las fronteras de la antigua Zarovia, el reino que sus ancestros una vez gobernaron. Erevan, que practicaba el estilo del león y portaba su sigilo, nunca fue alguien que se inclinara ante nadie, y se negó. Su acto de desafío encendió las llamas de la guerra.
@@ -553,6 +554,13 @@ La conquista de Barov fue rápida y brutal. Sus fuerzas, acompañadas por Rahadi
 Barov nos gobernó con mano de hierro, y cuando murió y su hijo Strahd llegó al poder, nos alzamos en rebelión, liderando la carga por la libertad. Pero Strahd era aún más astuto y cruel que su padre. Aplastó nuestra revuelta en cuestión de días y masacró a nuestro pueblo en un genocidio que dejó con vida a menos de un centenar. A nosotros, los supervivientes, nos dejó a merced de los vistani, que nos acogieron en sus caravanas y nos condujeron hasta un refugio en este valle.
 
 Sin embargo, el ansia de conquista de Strahd no tenía fin. En menos de un año, el último de sus enemigos había caído y reclamó el valle como propio, dándole el nombre de «Barovia». Nos encontramos atrapados, prisioneros en el corazón del nuevo imperio de nuestro conquistador. Para entonces, sin embargo, ya habíamos construido un hogar aquí y decidimos permanecer, esperando, en lo más profundo de nuestros corazones, que la bondad de los vistani nos mantuviera a salvo. Y así hemos permanecido desde entonces.
+
+
+###
+
+
+
+
 
 ## Lady watcher
 
