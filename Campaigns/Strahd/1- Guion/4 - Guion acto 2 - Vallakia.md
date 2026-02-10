@@ -572,10 +572,29 @@ Ernst Larnak en la taverna o en la calle les para.
 
 "Buenas tardes señores, mi nombre es Ernst Larnak. Sirvo a Lady Fiona Watcher. Os informo de que Lady Watcher desea conoceros y os invita formalmente a cenar en la mansion Wachterhous. "
 
+Carta:
+Estimado Toji y estimados compañeros:
+
+Espero que esta misiva os encuentre con buena salud y ánimo elevado. Vallakia parece haber sido bendecida por vuestra presencia y la promesa de buena voluntad que traéis con vosotros.
+
+Ha llegado a mi conocimiento que nuestros caminos, aunque discurren por tiempos tan difíciles, presentan una notable convergencia. Por ello, os escribo hoy con una humilde invitación a cenar en mi hogar, Wachterhaus, esta noche aa poder ser. Podréis encontrarla en el camino norte de Vallaki, a corta distancia de la Puerta Zarovich.
+
+Confío en que este entorno proporcione un ambiente tranquilo y acogedor en el que podamos tratar asuntos de interés y preocupación mutuos. Mis puertas, como siempre lo han estado, permanecen abiertas para quienes desean lo mejor para la buena gente de Barovia.
+
+Si decidís aceptar, bastará con presentar esta invitación en la puerta de mi residencia. Espero complacida vuestra presencia mañana al anochecer. Hasta entonces, quedo de ustedes,
+
+Atentamente,
+
+Lady Fiona Wachter
+
 
 ### Mansion Watchterhous
 
-Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El mayordomo os sienta y os presenta comida y bebida 
+Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El mayordomo os sienta y os presenta comida y bebida.
+
+Al rato que os sentais, una de las puertas se abre y aparece una señora bien vestida.
+
+"Buenas noches, espero que esteis disfrutando de la cena. Me presentare como es debido. Soy Lady Fiona Wachter"
 ## Strazni siblings
 
 ## Lost soul
