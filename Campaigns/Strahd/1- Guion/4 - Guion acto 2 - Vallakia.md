@@ -592,6 +592,9 @@ Lady Fiona Wachter
 
 Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El mayordomo os sienta y os presenta comida y bebida.
 
++1 en tiradas de constitucion un dia
+
+
 Al rato que os sentais, una de las puertas se abre y aparece una señora bien vestida.
 
 "Buenas noches, espero que esteis disfrutando de la cena. Me presentare como es debido. Soy Lady Fiona Wachter"
