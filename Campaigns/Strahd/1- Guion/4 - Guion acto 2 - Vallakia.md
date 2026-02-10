@@ -566,6 +566,11 @@ Sin embargo, el ansia de conquista de Strahd no tenía fin. En menos de un año,
 
 ## Lady watcher
 
+Trigger: desafiar al baron o ayudar refugiados.
+
+Ernst Larnak en la taverna o en la calle les para.
+
+"Buenas tardes señores, mi nombre es Ernst Larnak. Sirvo a Lady Fiona Watcher. Os informo de que Lady Watcher desea conoceros y os invita formalmente a cenar en la mansion  "
 ## Strazni siblings
 
 ## Lost soul
