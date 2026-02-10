@@ -556,7 +556,9 @@ Barov nos gobernó con mano de hierro, y cuando murió y su hijo Strahd llegó a
 Sin embargo, el ansia de conquista de Strahd no tenía fin. En menos de un año, el último de sus enemigos había caído y reclamó el valle como propio, dándole el nombre de «Barovia». Nos encontramos atrapados, prisioneros en el corazón del nuevo imperio de nuestro conquistador. Para entonces, sin embargo, ya habíamos construido un hogar aquí y decidimos permanecer, esperando, en lo más profundo de nuestros corazones, que la bondad de los vistani nos mantuviera a salvo. Y así hemos permanecido desde entonces.
 
 
-###
+### Mansion Burgomaestre
+
+
 
 
 
