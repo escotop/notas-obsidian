@@ -581,7 +581,7 @@ Ha llegado a mi conocimiento que nuestros caminos, aunque discurren por tiempos 
 
 Confío en que este entorno proporcione un ambiente tranquilo y acogedor en el que podamos tratar asuntos de interés y preocupación mutuos. Mis puertas, como siempre lo han estado, permanecen abiertas para quienes desean lo mejor para la buena gente de Barovia.
 
-Si decidís aceptar, bastará con presentar esta invitación en la puerta de mi residencia. Espero complacida vuestra presencia mañana al anochecer. Hasta entonces, quedo de ustedes,
+Si decidís aceptar, bastará con presentar esta invitación en la puerta de mi residencia. Espero veros al anochecer. Hasta entonces, quedo de ustedes,
 
 Atentamente,
 
