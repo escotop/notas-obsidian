@@ -590,6 +590,10 @@ Lady Fiona Wachter
 
 ### Mansion Watchterhous
 
+Veis el casoplon. Frente a este un jardin lleno de flores y viñas. Ya solo por el espacio que ocupa el jardin solo y el tamaño de la casa, sabeis que la señora no le cuesta llegar a fin de mes.
+
+Al tocar, un mayordomo abre la puerta y os recibe. Tras esto, os invita a entrar y os guia hasta lo que parece ser un salon comedor.
+
 Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El mayordomo os sienta y os presenta comida y bebida.
 
 +1 en tiradas de constitucion un dia
