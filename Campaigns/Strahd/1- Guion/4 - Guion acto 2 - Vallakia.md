@@ -604,11 +604,75 @@ Al rato que os sentais, a traves de una de las puertas abiertas veis a una chica
 Detras suya aparece otro joven bien vestido con cara de preocupado.
 "Stella! Que haces vagando por la casa tu sola, ven vamos a tu cuarto. Disculpad las molestias."
 
-Tras esto veis como el chico guia a la chica con cuidado y ella se deja llevar
+Tras esto veis como el chico guia a la chica con cuidado y ella se deja llevar.
+
+Acto seguido, de otra de las puertas aparece una señora con aire  de importante.
+
+"Disculpad la tardanza, me alegra que hayais aceptado mi invitacion. Espero que la cena sea de vuestro agrado. Me presentare como es debido, Soy Lady Fionna Wachter y os doy la bienvenida a mi hogar."
+
+
 
 "Buenas noches, espero que esteis disfrutando de la cena. Me presentare como es debido. Soy Lady Fiona Wachter"
 
+Info que tiene:
+* The young woman was Stella Wachter, her daughter and youngest child. Stella suffers from a mysterious illness—one that has left her mind in a vegetative state for the past two months. Lady Wachter has tried every means available to her to cure Stella’s sickness, but none has succeeded.
+* The man with Stella was Nikolai Wachter II, Lady Wachter’s eldest son. Nikolai is named for his father, Nikolai Wachter, who died of a wasting sickness three years ago.
+* Nikolai and his younger brother, Karl, can be mischievous and troublesome louts at times, but Lady Wachter believes that they both have good hearts—if highly disorganized ones. (She is fond of her sons, but regrets that both grew wild and thrill-seeking following their father’s death.)
 
+
+***If asked how she came to her position,*** Lady Wachter notes that she was not always the heir of House Wachter. Her elder brother, Frederich Wachter, had always been expected to inherit their mother’s household and title. As a teenager, Fiona often fought with her mother and brother—and, on one such occasion, ran away from home in a pique of stubborn fury. She fled into the Svalich Woods, where she would have surely died had she not been found by an old woman named Lysa. Fiona stayed in Lysa’s cottage for six months, until she learned that her parents and brother had perished in a tragic accident. Fiona returned to Vallaki against Lysa’s advice and reclaimed her family’s position.
+
+
+#### Propuesta
+
+
+Si los jugadores manifiestan oposición al Barón, Lady Wachter confiesa que recientemente ha comenzado a albergar serias dudas sobre su idoneidad para gobernar. Puede compartir la siguiente información sobre el barón Vargas Vallakovich:
+
+- La familia Vallakovich ha gobernado Vallaki desde que su primer patriarca, Boris Vallakovich, fundó la ciudad hace casi quinientos años. Los Vallakovich afirman tener sangre real en sus venas y siempre se han considerado superiores a todos los demás en el valle, y el actual Barón no es diferente.
+    
+- El barón Vargas Vallakovich accedió al poder como burgomaestre hace once años, cuando su padre, el barón Valentin Vallakovich, falleció mientras dormía. (En aquel momento, Valentin apenas tenía cincuenta años y gozaba de una salud casi perfecta. Fiona siempre ha albergado sus sospechas, pero nunca salió a la luz ninguna prueba de juego sucio).
+    
+- Vargas cree firmemente en la superstición de que el Diablo Strahd llegó por primera vez como castigo por los pecados de los antepasados de los barovianos. Por ello, siempre ha tenido una extraña fijación con la idea de que la “felicidad” podría algún día devolver la luz del sol al valle, organizando “festivales” mensuales que la mayoría siempre ha considerado eventos aburridos.
+    
+- Desde el despertar de Strahd hace tres meses, las creencias antes inofensivas de Vargas se han convertido en una obsesión. Ha instaurado festivales semanales y ha hecho obligatoria la asistencia.
+    
+- Vargas también ha criminalizado la “infelicidad maliciosa”, como se describe en Donkey-Headed Criminals (p. 119). Aunque la mayoría de los “infractores” acaban en el cepo, unos pocos seleccionados han sido llevados a su mansión para una “rehabilitación” personal, incluido Udo Lukovich, un zapatero local que fue arrestado la semana pasada como se describe en N3m. Locked Closet (p. 107). Desde entonces no se ha vuelto a ver a Udo.
+    
+- El miedo y la paranoia de Vargas incluso lo han llevado a prohibir la entrada en Vallaki a los refugiados de la aldea de Barovia, un enorme abuso de poder que ha causado un sufrimiento significativo e injustificado.
+    
+- La voluntad de Vargas es ejecutada por su mano derecha, Izek Strazni, quien sirve tanto como Capitán de la Guardia de Vallaki como ejecutor personal del Barón.
+    
+
+Lady Wachter también puede compartir la siguiente información sobre Izek:
+
+- Izek quedó huérfano a los diez años, perdiendo a su hermana menor y un brazo en un ataque de lobos, y a ambos padres por la pena poco después. El cuerpo de su hermana nunca fue encontrado.
+    
+- Izek era a menudo objeto de burlas por su discapacidad, pero después de que varios de sus acosadores desaparecieran, las risas cesaron abruptamente. Nunca se encontraron los cuerpos, pero persisten los rumores de que Izek —un niño grande y frecuentemente violento— los asesinó él mismo.
+    
+- Aproximadamente un año después de perder a sus padres, Izek fue arrestado por la guardia de la ciudad y llevado a la mansión de los Vallakovich. Nadie sabe qué crimen cometió ni por qué fue liberado poco después, pero el hijo de veinticinco años de Valentin Vallakovich, el entonces baronet Vargas Vallakovich, prácticamente adoptó a Izek y lo acogió en su hogar.
+    
+- Izek sirvió fielmente a la familia Vallakovich durante los cinco años siguientes. Cuando Izek tenía dieciséis años, de algún modo obtuvo un nuevo brazo para reemplazar el que había perdido, aunque su nuevo miembro se parecía más al de un diablo que a cualquier forma humana. (Curiosamente, el día en que Izek recuperó su brazo fue el mismo día en que se anunció que el barón Valentin Vallakovich había fallecido mientras dormía. Lady Wachter está convencida de que ambos eventos están relacionados).
+    
+- El brazo infernal de Izek le permitió empuñar un arma adecuada, pero, más significativamente, le otorgó mágicamente el poder de conjurar fuego. Vargas pronto puso ambas habilidades al servicio de sus fines, designando a Izek como su ejecutor personal y miembro destacado de la guardia de Vallaki. Con el paso del tiempo, Izek se convirtió en un terror en toda Vallaki, cometiendo actos arbitrarios de agresión, incendio provocado y extorsión tanto por orden del Barón como para satisfacer sus propios caprichos diabólicos.
+    
+- Muchos habitantes del pueblo odian y temen a Izek, un sentimiento que también ha comenzado a extenderse hacia Vargas tras el renacimiento de Strahd. Sin embargo, la fuerza de Izek los protege a ambos, despachando rápidamente a cualquiera que se atreva a desafiarlos e intimidando a quienes no lo hacen.
+    
+
+Cuando sea apropiado, Lady Wachter también puede compartir la siguiente historia sobre su hija, Stella:
+
+- Hace seis meses, en contra de su consejo, la hija de Lady Wachter, Stella, comenzó a visitar a Victor Vallakovich, el hijo del Barón. Lady Wachter le advirtió que no se involucrara con la familia Vallakovich, pero Stella ignoró sus súplicas.
+    
+- Hace poco más de dos meses, Izek Strazni devolvió a Stella a Wachterhaus en su estado actual: sin mente y sin habla, incapaz de caminar, comer o incluso vestirse por sí misma sin la ayuda de otra persona.
+    
+- El barón Vallakovich se ha negado a hablar del asunto en profundidad, sugiriendo únicamente que la frágil constitución de la joven y la exposición de su familia al Diablo eran las responsables. El propio Victor Vallakovich se ha negado siquiera a hablar con ella.
+    
+- Fiona está convencida de que Izek o los Vallakovich le hicieron algo terrible a Stella y que, incluso si no fue así, su fría negativa a ayudarla o siquiera compadecerse de su enfermedad demuestra que no son aptos para gobernar.
+
+
+
+Propuesta:
+
+"Hay muchos en vallakia que se "
 ## Strazni siblings
 
 ## Lost soul
