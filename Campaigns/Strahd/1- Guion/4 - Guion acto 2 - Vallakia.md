@@ -686,7 +686,9 @@ Aceptan:
 
 "Una vez este hecho, podeis deshaceros del cuerpo, pero necesito la cabeza, traedla."
 
-"Una  vez este hecho, "
+"Una  vez este hecho, mis asociados y yo nos encargaremos de que haya una transicion de poder tranquila"
+
+"Por ultimo, es bien sabido que Izek es un bebedor pesado. Por lo que me he encargado de preparar esto. Es una botella de su vino favorito, pero este ejemplar "
 ## Strazni siblings
 
 ## Lost soul
