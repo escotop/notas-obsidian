@@ -672,7 +672,21 @@ Cuando sea apropiado, Lady Wachter también puede compartir la siguiente histori
 
 Propuesta:
 
-"Hay muchos en vallakia que se "
+"Hay muchos en vallakia que se hayan descontentos con el mandato de los Vallakovich y que preferirian un nuevo liderazgo en Vallakia"
+
+"No obstante, mientras Izek Strazni permanezca del lado del baron, cualquier intento de conseguir un cambio real en la politica de Vallakia sera  respondido con violencia."
+
+"Es por ello, que viendo lo capaces que sois, me preguntaba si un grupo como el vuestro estaria dispuesto a liberar Vallakia de su tirania."
+
+Aceptan:
+
+"Excelente, entonces ultimare los detalles"
+
+"Hare que alguno de mis subordinados os informe de la rutina diaria de Izek. Idealmente preferiria que llevaseis a acabo la tarea discretamente y supongo que tambien os sera mas facil hacerlo en algun momento que se encuentre a solas."
+
+"Una vez este hecho, podeis deshaceros del cuerpo, pero necesito la cabeza, traedla."
+
+"Una  vez este hecho, "
 ## Strazni siblings
 
 ## Lost soul
