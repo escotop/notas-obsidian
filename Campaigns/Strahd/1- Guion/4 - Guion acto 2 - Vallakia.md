@@ -599,9 +599,16 @@ Al llegar, el mayordomo os guia hasta un salon comedor con pinta de caro. El may
 +1 en tiradas de constitucion un dia
 
 
-Al rato que os sentais, una de las puertas se abre y aparece una señora bien vestida.
+Al rato que os sentais, a traves de una de las puertas abiertas veis a una chica joven de pie en el marco de la puerta. Va con ropa de dormir y zapatillas de por casa. La chica parece tener la vista perdida y no muestra ninguna clase de expresion.
+
+Detras suya aparece otro joven bien vestido con cara de preocupado.
+"Stella! Que haces vagando por la casa tu sola, ven vamos a tu cuarto. Disculpad las molestias."
+
+Tras esto veis como el chico guia a la chica con cuidado y ella se deja llevar
 
 "Buenas noches, espero que esteis disfrutando de la cena. Me presentare como es debido. Soy Lady Fiona Wachter"
+
+
 ## Strazni siblings
 
 ## Lost soul
