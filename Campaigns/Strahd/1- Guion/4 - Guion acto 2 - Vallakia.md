@@ -559,7 +559,12 @@ Sin embargo, el ansia de conquista de Strahd no tenía fin. En menos de un año,
 ### Mansion Burgomaestre
 
 
+Objetivo: Buscar info del anillo en la biblioteca
+opcional: Cambiar vino de Izek
 
+Normal:
+
+Infiltracion:
 
 
 
